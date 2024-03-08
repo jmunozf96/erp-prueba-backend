@@ -115,3 +115,6 @@ $RECYCLE.BIN/
 **/bin/
 **/obj/
 **/Migrations/
+
+# Ignorar el archivo appsettings.json
+**/appsettings.json
