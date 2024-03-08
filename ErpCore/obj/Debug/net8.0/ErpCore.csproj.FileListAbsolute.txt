@@ -1,0 +1,12 @@
+D:\Develop\Csharp\WebApiPerson\ErpCore\bin\Debug\net8.0\ErpCore.deps.json
+D:\Develop\Csharp\WebApiPerson\ErpCore\bin\Debug\net8.0\ErpCore.dll
+D:\Develop\Csharp\WebApiPerson\ErpCore\bin\Debug\net8.0\ErpCore.pdb
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.csproj.AssemblyReference.cache
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.AssemblyInfoInputs.cache
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.AssemblyInfo.cs
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.csproj.CoreCompileInputs.cache
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.dll
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\refint\ErpCore.dll
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ErpCore.pdb
+D:\Develop\Csharp\WebApiPerson\ErpCore\obj\Debug\net8.0\ref\ErpCore.dll

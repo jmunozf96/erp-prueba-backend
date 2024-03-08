@@ -1,0 +1,11 @@
+D:\Develop\Csharp\WebApiPerson\ErpShared\bin\Debug\net8.0\ErpShared.deps.json
+D:\Develop\Csharp\WebApiPerson\ErpShared\bin\Debug\net8.0\ErpShared.dll
+D:\Develop\Csharp\WebApiPerson\ErpShared\bin\Debug\net8.0\ErpShared.pdb
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ErpShared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ErpShared.AssemblyInfoInputs.cache
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ErpShared.AssemblyInfo.cs
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ErpShared.csproj.CoreCompileInputs.cache
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ErpShared.dll
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\refint\ErpShared.dll
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ErpShared.pdb
+D:\Develop\Csharp\WebApiPerson\ErpShared\obj\Debug\net8.0\ref\ErpShared.dll
