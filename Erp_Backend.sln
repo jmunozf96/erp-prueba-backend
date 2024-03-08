@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiPerson", "WebApiPerson\WebApiPerson.csproj", "{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErpWeb", "WebApiPerson\ErpWeb.csproj", "{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpSecurity", "ErpSecurity\ErpSecurity.csproj", "{F24FC9D5-9A85-421B-8874-BCAB4508A697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErpSecurity", "ErpSecurity\ErpSecurity.csproj", "{F24FC9D5-9A85-421B-8874-BCAB4508A697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpShared", "ErpShared\ErpShared.csproj", "{8CFCC374-9F1E-4E4B-A8D9-F629CEE72268}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErpShared", "ErpShared\ErpShared.csproj", "{8CFCC374-9F1E-4E4B-A8D9-F629CEE72268}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpIoc", "ErpIoc\ErpIoc.csproj", "{56CF18EE-C30E-4EF3-9DF1-E0F1C3BC9708}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErpIoc", "ErpIoc\ErpIoc.csproj", "{56CF18EE-C30E-4EF3-9DF1-E0F1C3BC9708}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErpCore", "ErpCore\ErpCore.csproj", "{E0A39288-8807-4ADA-9981-2F0CC1AC77E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ErpCore", "ErpCore\ErpCore.csproj", "{E0A39288-8807-4ADA-9981-2F0CC1AC77E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
