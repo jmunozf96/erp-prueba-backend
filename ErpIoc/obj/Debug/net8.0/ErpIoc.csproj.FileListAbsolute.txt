@@ -17,3 +17,4 @@ D:\Develop\Csharp\WebApiPerson\ErpIoc\obj\Debug\net8.0\ErpIoc.pdb
 D:\Develop\Csharp\WebApiPerson\ErpIoc\obj\Debug\net8.0\ref\ErpIoc.dll
 D:\Develop\Csharp\WebApiPerson\ErpIoc\bin\Debug\net8.0\ErpCore.dll
 D:\Develop\Csharp\WebApiPerson\ErpIoc\bin\Debug\net8.0\ErpCore.pdb
+D:\Develop\Csharp\WebApiPerson\ErpIoc\obj\Debug\net8.0\ErpIoc.sourcelink.json

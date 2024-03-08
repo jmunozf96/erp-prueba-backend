@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "D:\\Develop\\Csharp\\WebApiPerson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Migrations\\20240308222932_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApiPerson\\Migrations\\20240308222932_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|d:\\develop\\csharp\\webapiperson\\erpsecurity\\infrastructure\\repositories\\userrepositoryadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|solutionrelative:erpsecurity\\infrastructure\\repositories\\userrepositoryadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|d:\\develop\\csharp\\webapiperson\\erpsecurity\\infrastructure\\contexts\\securitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|solutionrelative:erpsecurity\\infrastructure\\contexts\\securitydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|d:\\develop\\csharp\\webapiperson\\erpsecurity\\application\\usecases\\signinusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|solutionrelative:erpsecurity\\application\\usecases\\signinusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|d:\\develop\\csharp\\webapiperson\\webapiperson\\ioc\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\ioc\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|d:\\develop\\csharp\\webapiperson\\webapiperson\\controllers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\controllers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|d:\\develop\\csharp\\webapiperson\\webapiperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|d:\\develop\\csharp\\webapiperson\\webapiperson\\contexts\\erpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\contexts\\erpdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CF18EE-C30E-4EF3-9DF1-E0F1C3BC9708}|ErpIoc\\ErpIoc.csproj|d:\\develop\\csharp\\webapiperson\\erpioc\\erpioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{56CF18EE-C30E-4EF3-9DF1-E0F1C3BC9708}|ErpIoc\\ErpIoc.csproj|solutionrelative:erpioc\\erpioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|d:\\develop\\csharp\\webapiperson\\erpsecurity\\application\\usecases\\getaccesstokenusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|solutionrelative:erpsecurity\\application\\usecases\\getaccesstokenusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56CF18EE-C30E-4EF3-9DF1-E0F1C3BC9708}|ErpIoc\\ErpIoc.csproj|d:\\develop\\csharp\\webapiperson\\erpioc\\options\\optionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56CF18EE-C30E-4EF3-9DF1-E0F1C3BC9708}|ErpIoc\\ErpIoc.csproj|solutionrelative:erpioc\\options\\optionsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0A39288-8807-4ADA-9981-2F0CC1AC77E8}|ErpCore\\ErpCore.csproj|d:\\develop\\csharp\\webapiperson\\erpcore\\options\\connectionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0A39288-8807-4ADA-9981-2F0CC1AC77E8}|ErpCore\\ErpCore.csproj|solutionrelative:erpcore\\options\\connectionoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|d:\\develop\\csharp\\webapiperson\\erpsecurity\\infrastructure\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|solutionrelative:erpsecurity\\infrastructure\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|d:\\develop\\csharp\\webapiperson\\webapiperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9851A0A6-B70C-4F9D-92DD-DA3607BFDC38}|WebApiPerson\\WebApiPerson.csproj|solutionrelative:webapiperson\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|d:\\develop\\csharp\\webapiperson\\erpsecurity\\application\\usecases\\signinusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24FC9D5-9A85-421B-8874-BCAB4508A697}|ErpSecurity\\ErpSecurity.csproj|solutionrelative:erpsecurity\\application\\usecases\\signinusecaseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240308222932_Initial.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Migrations\\20240308222932_Initial.cs",
-              "RelativeDocumentMoniker": "WebApiPerson\\Migrations\\20240308222932_Initial.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Migrations\\20240308222932_Initial.cs",
-              "RelativeToolTip": "WebApiPerson\\Migrations\\20240308222932_Initial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "GlobalExceptionHandler.cs",
+              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Controllers\\GlobalExceptionHandler.cs",
+              "RelativeDocumentMoniker": "WebApiPerson\\Controllers\\GlobalExceptionHandler.cs",
+              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Controllers\\GlobalExceptionHandler.cs",
+              "RelativeToolTip": "WebApiPerson\\Controllers\\GlobalExceptionHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:29:32.77Z",
+              "WhenOpened": "2024-03-08T22:57:14.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepositoryAdapter.cs",
+              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Infrastructure\\Repositories\\UserRepositoryAdapter.cs",
+              "RelativeDocumentMoniker": "ErpSecurity\\Infrastructure\\Repositories\\UserRepositoryAdapter.cs",
+              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Infrastructure\\Repositories\\UserRepositoryAdapter.cs",
+              "RelativeToolTip": "ErpSecurity\\Infrastructure\\Repositories\\UserRepositoryAdapter.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:54:47.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Ioc\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApiPerson\\Ioc\\AppDbContext.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Ioc\\AppDbContext.cs",
-              "RelativeToolTip": "WebApiPerson\\Ioc\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:22:03.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ErpDbContext.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Contexts\\ErpDbContext.cs",
-              "RelativeDocumentMoniker": "WebApiPerson\\Contexts\\ErpDbContext.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Contexts\\ErpDbContext.cs",
-              "RelativeToolTip": "WebApiPerson\\Contexts\\ErpDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:19:53.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SecurityDbContext.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Infrastructure\\Contexts\\SecurityDbContext.cs",
-              "RelativeDocumentMoniker": "ErpSecurity\\Infrastructure\\Contexts\\SecurityDbContext.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Infrastructure\\Contexts\\SecurityDbContext.cs",
-              "RelativeToolTip": "ErpSecurity\\Infrastructure\\Contexts\\SecurityDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:19:09.284Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GetAccessTokenUseCaseImpl.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Application\\Usecases\\GetAccessTokenUseCaseImpl.cs",
-              "RelativeDocumentMoniker": "ErpSecurity\\Application\\Usecases\\GetAccessTokenUseCaseImpl.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Application\\Usecases\\GetAccessTokenUseCaseImpl.cs",
-              "RelativeToolTip": "ErpSecurity\\Application\\Usecases\\GetAccessTokenUseCaseImpl.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAArwBgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:15:46.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ErpIoc",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpIoc\\ErpIoc.csproj",
-              "RelativeDocumentMoniker": "ErpIoc\\ErpIoc.csproj",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpIoc\\ErpIoc.csproj",
-              "RelativeToolTip": "ErpIoc\\ErpIoc.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-08T22:13:47.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "SignInUseCaseImpl.cs",
               "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Application\\Usecases\\SignInUseCaseImpl.cs",
               "RelativeDocumentMoniker": "ErpSecurity\\Application\\Usecases\\SignInUseCaseImpl.cs",
               "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Application\\Usecases\\SignInUseCaseImpl.cs",
               "RelativeToolTip": "ErpSecurity\\Application\\Usecases\\SignInUseCaseImpl.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAMAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:11:55.362Z",
+              "WhenOpened": "2024-03-08T22:54:34.7Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Infrastructure\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "ErpSecurity\\Infrastructure\\Entities\\UserEntity.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpSecurity\\Infrastructure\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "ErpSecurity\\Infrastructure\\Entities\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:07:15.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Program.cs",
               "RelativeDocumentMoniker": "WebApiPerson\\Program.cs",
               "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\Program.cs",
               "RelativeToolTip": "WebApiPerson\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABYAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T21:58:45.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ConnectionOption.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpCore\\Options\\ConnectionOption.cs",
-              "RelativeDocumentMoniker": "ErpCore\\Options\\ConnectionOption.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpCore\\Options\\ConnectionOption.cs",
-              "RelativeToolTip": "ErpCore\\Options\\ConnectionOption.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T21:57:46.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OptionsService.cs",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\ErpIoc\\Options\\OptionsService.cs",
-              "RelativeDocumentMoniker": "ErpIoc\\Options\\OptionsService.cs",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\ErpIoc\\Options\\OptionsService.cs",
-              "RelativeToolTip": "ErpIoc\\Options\\OptionsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T22:14:07.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApiPerson\\appsettings.json",
-              "ToolTip": "D:\\Develop\\Csharp\\WebApiPerson\\WebApiPerson\\appsettings.json",
-              "RelativeToolTip": "WebApiPerson\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-08T21:57:49.881Z",
+              "WhenOpened": "2024-03-08T22:54:28.095Z",
               "EditorCaption": ""
             }
           ]

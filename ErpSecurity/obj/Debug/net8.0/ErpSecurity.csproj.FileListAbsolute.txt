@@ -15,3 +15,4 @@ D:\Develop\Csharp\WebApiPerson\ErpSecurity\bin\Debug\net8.0\ErpShared.pdb
 D:\Develop\Csharp\WebApiPerson\ErpSecurity\obj\Debug\net8.0\ErpSecur.E6752188.Up2Date
 D:\Develop\Csharp\WebApiPerson\ErpSecurity\bin\Debug\net8.0\ErpCore.dll
 D:\Develop\Csharp\WebApiPerson\ErpSecurity\bin\Debug\net8.0\ErpCore.pdb
+D:\Develop\Csharp\WebApiPerson\ErpSecurity\obj\Debug\net8.0\ErpSecurity.sourcelink.json

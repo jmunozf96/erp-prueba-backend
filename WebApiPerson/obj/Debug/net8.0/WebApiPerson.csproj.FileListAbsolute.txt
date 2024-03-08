@@ -145,3 +145,4 @@ D:\Develop\Csharp\WebApiPerson\WebApiPerson\bin\Debug\net8.0\Microsoft.AspNetCor
 D:\Develop\Csharp\WebApiPerson\WebApiPerson\bin\Debug\net8.0\ErpCore.dll
 D:\Develop\Csharp\WebApiPerson\WebApiPerson\bin\Debug\net8.0\ErpCore.pdb
 D:\Develop\Csharp\WebApiPerson\WebApiPerson\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\Develop\Csharp\WebApiPerson\WebApiPerson\obj\Debug\net8.0\WebApiPerson.sourcelink.json
